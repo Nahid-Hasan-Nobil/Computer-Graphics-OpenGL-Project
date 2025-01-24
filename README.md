@@ -1,5 +1,5 @@
 # Computer-Graphics-OpenGL-Project
-#Visualizing Dynamic Landscapes
+Visualizing Dynamic Landscapes
 Project Overview:
 Interactive graphical applications provide a fascinating way to simulate real-world environments and processes. This project, developed using the OpenGL Utility Toolkit (GLUT), features three distinct interactive scenarios that offer a captivating visual experience:
 1.	London Bridge Scene
